@@ -18,6 +18,6 @@ mkdir "$diretoria_principal/$subdiretoria2"
 subsubdiretoria1="logs" 
 
 # Cria a subsubdiretória dentro da subdiretoria1
-mkdir "$diretoria_principal/$subdiretoria1//$subsubdiretoria1"
+mkdir "$diretoria_principal/$subdiretoria2/$subsubdiretoria1"
 
 echo "Diretoria principal e subdiretórias criadas"
