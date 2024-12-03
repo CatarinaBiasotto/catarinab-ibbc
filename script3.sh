@@ -2,12 +2,12 @@
 
 # Caminhos para os arquivos ou diretórios a serem removidos
 arquivos=(
-  /home/catarina/ibbc/teste/Rawdata/*.html
-  /home/catarina/ibbc/teste/Rawdata/*.zip
-  /home/catarina/ibbc/teste/Rawdata/multiqc*
-  /home/catarina/ibbc/teste/finaldata/*.*
-  /home/catarina/ibbc/teste/finaldata/multiqc_data
-  /home/catarina/ibbc/teste/finaldata/logs/*.log
+  /home/fc54205/teste/rawdata/*.html
+  /home/fc54205/teste/rawdata/*.zip
+  /home/fc54205/teste/rawdata/multiqc*
+  /home/fc54205/teste/finaldata/*.*
+  /home/fc54205/teste/finaldata/multiqc_data
+  /home/fc54205/teste/finaldata/logs/*.log
 )
 
 # Remove os arquivos especificados
