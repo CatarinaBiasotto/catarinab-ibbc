@@ -1,0 +1,4 @@
+Amostra1 NOD 0_mM_NOD_plus_1_aaa.fastq.gz
+Amostra1 NOD 0_mM_NOD_plus_2_aaa.fastq.gz
+Amostra2 NOD 400_mM_NOD_plus_1_aaa.fastq.gz
+Amostra2 NOD 400_mM_NOD_plus_2_aaa.fastq.gz
